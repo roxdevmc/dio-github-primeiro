@@ -18,4 +18,4 @@ git push origin main - envia os todos os comites locais para a nuvem (GitHub)
 
 
 
-main, master ou origin - na pasta, aparece quando tem repositorio
+main, master ou origin - na pasta, aparece quando está dentro do repositorio no Bash
