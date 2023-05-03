@@ -19,3 +19,5 @@ git push origin main - envia os todos os comites locais para a nuvem (GitHub)
 
 
 main, master ou origin - na pasta, aparece quando está dentro do repositorio no Bash
+
+https://womakerscode.gitbook.io/desvendando-git-e-github/ciclo-de-vida-basico/criando-um-repositorio
